@@ -1,24 +1,16 @@
-<div align="center">
+### ⚡ root@0xcan-null:\~#
 
 ```diff
-+ ████████████████████████████████████████████████████████
-+ █                                                      █
-+ █   root@0xcan-null:\~#  ACCESS GRANTED                 █
-+ █                                                      █
-+ ████████████████████████████████████████████████████████
++ ========================================================
++                    ACCESS GRANTED
++ ========================================================
 root@0xcan-null:\~$ whoami
+root
+
 root@0xcan-null:\~$ cat /etc/status
-root@0xcan-null:\~$ neofetch
-.-/+oossssoo+/-.               
-      `:+ssssssssssssssssss+:`           root@0xcan-null
-    -+ssssssssssssssssssyyssss+-         ---------------
-  .ossssssssssssssssssdMMMNysssso.       OS: Kali Linux x86_64
- /ssssssssssshdmmNNmmyNMMMMhssssss/      Host: Cyber Operator
-+ssssssssshmydMMMMMMMNddddyssssssss+     Kernel: 6.6.0-kali
-/sssssssshNMMMyhhyyyyhmNMMMNhssssssss/   Uptime: 21 minutes
-.ssssssssdMMMNhsssssssssshNMMMdssssssss. Shell: bash 5.2
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+ Theme: Hacker Green
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso Terminal: GitHub
-osssssssssNMMNNNNNNmmmmmmNMMMMMNysssssso CPU: Focused
-ssssssssssssssssssssssssssssssssssssssss Memory: Unlimited
-root@0xcan-null:\~$ echo "Ready."
+System Status ......... [ ONLINE ]
+Privilege Level ....... [ ROOT ]
+Focus ................. [ Cyber Security & Scripting ]
+Access ................ [ GRANTED ]
+root@0xcan-null:\~$ echo "Ready for next command..."
+Ready.
