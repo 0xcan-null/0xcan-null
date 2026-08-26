@@ -16,3 +16,10 @@ root@0xcan-null:~# cat skills.txt
 root@0xcan-null:~# ping status
 > 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.032 ms (ONLINE)
 > 
+### 🐍 System Activity Tracker
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xcan-null/0xcan-null/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xcan-null/0xcan-null/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0xcan-null/0xcan-null/output/github-contribution-grid-snake.svg">
+</picture>
