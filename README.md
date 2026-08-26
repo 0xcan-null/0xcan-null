@@ -24,15 +24,79 @@ root@0xcan-null:~# ping status
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0xcan-null/0xcan-null/output/github-contribution-grid-snake.svg">
 </picture>
 ---
+bash
+[+] IDENTITY    : 0xCAN-NULL (THE ARCHITECT)
+[+] SYSTEM CORE : Python | Linux | CyberSec | Psychology
+[+] DIRECTIVE   : Decoding the Human Mind & Exploiting Systems
+[+] ACCESS      : ROOT // GRANTED
+---
 
-### 🛡️ Live Cyber Threat Intelligence (Latest CVEs)
+bash
+root@0xcan-null:~# whoami
+| Yazilim Gelistirici / Siber Guvenlik & Bilişsel Sistemler
 
-<!-- CVE-START -->
-| CVE ID | Severity (CVSS) | Summary | Date |
-| :--- | :--- | :--- | :--- |
-| [PYSEC-2025-19](https://nvd.nist.gov/vuln/detail/PYSEC-2025-19) | 🟢 Low (N/A) | No summary provided. |  |
-| [PYSEC-2024-115](https://nvd.nist.gov/vuln/detail/PYSEC-2024-115) | 🟢 Low (N/A) | No summary provided. |  |
-| [MAL-2026-14369](https://nvd.nist.gov/vuln/detail/MAL-2026-14369) | 🟢 Low (N/A) | Malicious code in @syncraft-labs/vue (npm) |  |
-| [MAL-2026-14368](https://nvd.nist.gov/vuln/detail/MAL-2026-14368) | 🟢 Low (N/A) | Malicious code in @syncraft-labs/react (npm) |  |
-| [MAL-2026-14367](https://nvd.nist.gov/vuln/detail/MAL-2026-14367) | 🟢 Low (N/A) | Malicious code in @syncraft-labs/core (npm) |  |
-<!-- CVE-END -->
+root@0xcan-null:~# cat skills.txt
+| Python | JavaScript | Linux | Bash | Guvenlik | Bilişsel Analiz
+
+root@0xcan-null:~# cat /etc/shadow/profile.json
+{
+  "subject": "0xCAN-NULL",
+  "clearance": "ROOT // LEVEL-5",
+  "doctrine": "Hacking the Machine, Decoding the Human Mind",
+  "status": "INFILTRATING MAINFRAME... [ONLINE]"
+}
+
+root@0xcan-null:~# ping status
+64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.032 ms (ONLINE)
+# ⚡ 0xcan-null | System Terminal
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+INITIALIZING+NEURAL_LINK...;%3E+USER%3A+0xCAN-NULL+%7C+THE+ARCHITECT;%3E+HACKING+MACHINES+%26+DECODING+MINDS;%3E+ROOT+ACCESS+GRANTED." alt="Typing SVG" />
+</div>
+
+---
+
+bash
+root@0xcan-null:~# whoami
+| Yazilim Gelistirici / Siber Guvenlik & Bilisel Sistemler
+
+root@0xcan-null:~# cat skills.txt
+| Python | JavaScript | Linux | Bash | Guvenlik | Bilisel Analiz
+
+root@0xcan-null:~# cat /etc/shadow/profile.json
+{
+  "subject": "0xCAN-NULL",
+  "clearance": "ROOT // LEVEL-5",
+  "doctrine": "Hacking the Machine, Decoding the Human Mind",
+  "status": "INFILTRATING MAINFRAME... [ONLINE]"
+}
+
+root@0xcan-null:~# ping status
+64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.032 ms (ONLINE)
+# ⚡ 0xcan-null | System Terminal
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+INITIALIZING+NEURAL_LINK...;%3E+USER%3A+0xCAN-NULL+%7C+THE+ARCHITECT;%3E+HACKING+MACHINES+%26+DECODING+MINDS;%3E+ROOT+ACCESS+GRANTED." alt="Typing SVG" />
+</div>
+
+---
+
+bash
+root@0xcan-null:~# whoami
+| Yazilim Gelistirici / Siber Guvenlik & Bilisel Sistemler
+
+root@0xcan-null:~# cat skills.txt
+| Python | JavaScript | Linux | Bash | Guvenlik | Bilisel Analiz
+
+root@0xcan-null:~# cat /etc/shadow/profile.json
+{
+  "subject": "0xCAN-NULL",
+  "clearance": "ROOT // LEVEL-5",
+  "doctrine": "Hacking the Machine, Decoding the Human Mind",
+  "status": "INFILTRATING MAINFRAME... [ONLINE]"
+}
+
+root@0xcan-null:~# ping status
+64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.032 ms (ONLINE)
+
+
