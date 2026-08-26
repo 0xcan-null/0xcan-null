@@ -28,7 +28,11 @@ root@0xcan-null:~# ping status
 ### 🛡️ Live Cyber Threat Intelligence (Latest CVEs)
 
 <!-- CVE-START -->
-| CVE ID | Severity (CVSS) | Summary |
-|---|---|---|
-| *Scanning threat databases...* | `Loading...` | Initializing live feed... |
+| CVE ID | Severity (CVSS) | Summary | Date |
+| :--- | :--- | :--- | :--- |
+| [PYSEC-2025-19](https://nvd.nist.gov/vuln/detail/PYSEC-2025-19) | 🟢 Low (N/A) | No summary provided. |  |
+| [PYSEC-2024-115](https://nvd.nist.gov/vuln/detail/PYSEC-2024-115) | 🟢 Low (N/A) | No summary provided. |  |
+| [MAL-2026-14369](https://nvd.nist.gov/vuln/detail/MAL-2026-14369) | 🟢 Low (N/A) | Malicious code in @syncraft-labs/vue (npm) |  |
+| [MAL-2026-14368](https://nvd.nist.gov/vuln/detail/MAL-2026-14368) | 🟢 Low (N/A) | Malicious code in @syncraft-labs/react (npm) |  |
+| [MAL-2026-14367](https://nvd.nist.gov/vuln/detail/MAL-2026-14367) | 🟢 Low (N/A) | Malicious code in @syncraft-labs/core (npm) |  |
 <!-- CVE-END -->
