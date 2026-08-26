@@ -57,9 +57,7 @@ root@0xcan-null:~# ping reality
 ---
 
 <div align="center">
-
-<img src="https://images.unsplash.com/photo-1518895949257-7621c3c786d7?q=80&w=600&auto=format&fit=crop" width="280px" style="border-radius: 12px; border: 1px solid #ff007f; box-shadow: 0 0 20px rgba(255, 0, 127, 0.4);" />
-
+<img width="640" height="626" alt="1000046472" src="https://github.com/user-attachments/assets/1869df38-586e-4f7f-8a82-02ed8ee3bf25" />
 <br/>
 
 ### `[ ACCESS GRANTED: 0xCAN-SPECIAL-NODE ]` 🌹
