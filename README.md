@@ -24,33 +24,6 @@ root@0xcan-null:~# ping status
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0xcan-null/0xcan-null/output/github-contribution-grid-snake.svg">
 </picture>
 ---
-bash
-[+] IDENTITY    : 0xCAN-NULL (THE ARCHITECT)
-[+] SYSTEM CORE : Python | Linux | CyberSec | Psychology
-[+] DIRECTIVE   : Decoding the Human Mind & Exploiting Systems
-[+] ACCESS      : ROOT // GRANTED
-# ⚡ 0xcan-null | System Terminal
-
----
-
-bash
-root@0xcan-null:~# whoami
-| Yazilim Gelistirici / Siber Guvenlik & Bilisel Sistemler
-
-root@0xcan-null:~# cat skills.txt
-| Python | JavaScript | Linux | Bash | Guvenlik | Bilisel Analiz
-
-root@0xcan-null:~# cat /etc/shadow/profile.json
-{
-  "subject": "0xCAN-NULL",
-  "clearance": "ROOT // LEVEL-5",
-  "doctrine": "Hacking the Machine, Decoding the Human Mind",
-  "status": "INFILTRATING MAINFRAME... [ONLINE]"
-}
-
-root@0xcan-null:~# ping status
-64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.032 ms (ONLINE)
-<div align="center">
 
 # ⚡ SYSTEM OVERRIDE // 0xCAN-NULL
 
