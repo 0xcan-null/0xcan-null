@@ -29,6 +29,9 @@ root@0xcan-null:~# ping status
 </div>
 
 ---
+<div align="center">
+
+<img src="https://media.tenor.com/2s_1n0J0j0sAAAAM/eminem-rose.gif" width="280px" style="border-radius: 12px; border: 1px solid #ff007f; box-shadow: 0 0 20px rgba(255, 0, 127, 0.4);" />
 
 ### 💻 Terminal Access
 
