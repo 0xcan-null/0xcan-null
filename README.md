@@ -29,30 +29,7 @@ bash
 [+] SYSTEM CORE : Python | Linux | CyberSec | Psychology
 [+] DIRECTIVE   : Decoding the Human Mind & Exploiting Systems
 [+] ACCESS      : ROOT // GRANTED
----
-
-bash
-root@0xcan-null:~# whoami
-| Yazilim Gelistirici / Siber Guvenlik & Bilişsel Sistemler
-
-root@0xcan-null:~# cat skills.txt
-| Python | JavaScript | Linux | Bash | Guvenlik | Bilişsel Analiz
-
-root@0xcan-null:~# cat /etc/shadow/profile.json
-{
-  "subject": "0xCAN-NULL",
-  "clearance": "ROOT // LEVEL-5",
-  "doctrine": "Hacking the Machine, Decoding the Human Mind",
-  "status": "INFILTRATING MAINFRAME... [ONLINE]"
-}
-
-root@0xcan-null:~# ping status
-64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.032 ms (ONLINE)
 # ⚡ 0xcan-null | System Terminal
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+INITIALIZING+NEURAL_LINK...;%3E+USER%3A+0xCAN-NULL+%7C+THE+ARCHITECT;%3E+HACKING+MACHINES+%26+DECODING+MINDS;%3E+ROOT+ACCESS+GRANTED." alt="Typing SVG" />
-</div>
 
 ---
 
@@ -73,30 +50,34 @@ root@0xcan-null:~# cat /etc/shadow/profile.json
 
 root@0xcan-null:~# ping status
 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.032 ms (ONLINE)
-# ⚡ 0xcan-null | System Terminal
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+INITIALIZING+NEURAL_LINK...;%3E+USER%3A+0xCAN-NULL+%7C+THE+ARCHITECT;%3E+HACKING+MACHINES+%26+DECODING+MINDS;%3E+ROOT+ACCESS+GRANTED." alt="Typing SVG" />
+
+# ⚡ SYSTEM OVERRIDE // 0xCAN-NULL
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%3E+INITIALIZING+NEURAL_LINK...;%3E+IDENTITY%3A+0xCAN-NULL+%7C+THE+ARCHITECT;%3E+HACKING+MACHINES+%26+DECODING+MINDS;%3E+ROOT+ACCESS+GRANTED.+WELCOME." alt="Typing SVG" />
+
 </div>
 
 ---
 
+### 💻 Terminal Access
 bash
 root@0xcan-null:~# whoami
-| Yazilim Gelistirici / Siber Guvenlik & Bilisel Sistemler
+Yazilim Gelistirici | Siber Guvenlik & Bilisel Sistemler
 
-root@0xcan-null:~# cat skills.txt
-| Python | JavaScript | Linux | Bash | Guvenlik | Bilisel Analiz
-
-root@0xcan-null:~# cat /etc/shadow/profile.json
+root@0xcan-null:~# cat core_skills.json
 {
-  "subject": "0xCAN-NULL",
-  "clearance": "ROOT // LEVEL-5",
-  "doctrine": "Hacking the Machine, Decoding the Human Mind",
-  "status": "INFILTRATING MAINFRAME... [ONLINE]"
+  "tech_stack": ["Python", "JavaScript", "Linux", "Bash", "Siber Guvenlik"],
+  "focus_area": ["Cognitive Systems", "Behavior Analytics", "Cyber Defense"]
 }
 
-root@0xcan-null:~# ping status
-64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.032 ms (ONLINE)
+root@0xcan-null:~# cat /etc/shadow/profile.env
+SUBJECT      = "CAN [0xCAN-NULL]"
+CLEARANCE    = "ROOT // LEVEL-5"
+MISSION      = "Bridging artificial algorithms with human psychology."
+STATUS       = "MAINFRAME OVERRIDDEN [ONLINE]"
+
+root@0xcan-null:~# ping reality
+64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.032 ms (ALL SYSTEMS NOMINAL)
 
 
