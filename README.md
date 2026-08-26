@@ -66,7 +66,10 @@ root@0xcan-null:~# ping reality
 > *`Status:` Kalp güvenliği bypass edildi // Bağlantı kuruldu.*
 
 <p>
-  <a href="efecan_onalll">
+  <a href="https://instagram.com/efecan_onalll">
+  <img src="https://img.shields.io/badge/DM_AT-Sohbete_Sız-ff007f?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+    
     <img src="https://img.shields.io/badge/DM_AT-Sohbete_Sız-ff007f?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
