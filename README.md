@@ -52,27 +52,25 @@ STATUS       = "MAINFRAME OVERRIDDEN [ONLINE]"
 root@0xcan-null:~# ping reality
 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.032 ms (ALL SYSTEMS NOMINAL)
 <div align="center">
+---
 
-# ⚡ [ CLASSIFIED // PROJECT: 0xCAN-NULL ] ⚡
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%3E+INITIALIZING+NEURAL_INTERFACE...;%3E+OPERATOR%3A+CAN+%7C+THE+SHADOW_ARCHITECT;%3E+STATUS%3A+INFILTRATING+COGNITIVE_NETWORKS;%3E+ACCESS%3A+ROOT+%2F%2F+LEVEL-5+RESTRICTED." alt="Typing SVG" />
+<img src="https://images.unsplash.com/photo-1518895949257-7621c3c786d7?q=80&w=600&auto=format&fit=crop" width="280px" style="border-radius: 12px; border: 1px solid #ff007f; box-shadow: 0 0 20px rgba(255, 0, 127, 0.4);" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SECURITY_CLEARANCE-LEVEL_5_TOP_SECRET-00FF41?style=for-the-badge&logo=target&logoColor=black&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/THREAT_LEVEL-MAXIMUM-red?style=for-the-badge&logo=shield&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE_INFILTRATION-00FFFF?style=for-the-badge&logo=gnubash&logoColor=black&labelColor=0d1117" />
+<br/>
+
+### `[ ACCESS GRANTED: 0xCAN-SPECIAL-NODE ]` 🌹
+
+> **"Buraya kadar geldiysen ya sisteme sızdın... ya da bana hayransın cano. 😉"**  
+> *`Status:` Kalp güvenliği bypass edildi // Bağlantı kuruldu.*
+
+<p>
+  <a href="efecan_onalll">
+    <img src="https://img.shields.io/badge/DM_AT-Sohbete_Sız-ff007f?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 </div>
 
----
-
-### 📁 SUBJECT DOSSIER // EYES ONLY
-
-yaml
-IDENTITY       : CAN [0xCAN-NULL]
-CLASSIFICATION : Neural Architect & Offensive Security Specialist
-DOCTRINE       : "Makinelerin mantığını çöz, insan zihnini hackle."
-CORE_ENGINE    : Python | Linux Kernel | Cyber Defense | Cognitive Systems
-TARGET         : Autonomous AI Systems & Behavioral Data Patterns
 
