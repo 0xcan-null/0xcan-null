@@ -1,74 +1,18 @@
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-    <meta charset="UTF-8">
-    <title>Terminal</title>
-    <style>
-        body {
-            background-color: #050505;
-            color: #00ff66;
-            font-family: 'Courier New', Courier, monospace;
-            padding: 20px;
-            margin: 0;
-            overflow: hidden;
-        }
-        #terminal {
-            white-space: pre-wrap;
-            font-size: 16px;
-            line-height: 1.4;
-        }
-        .cursor {
-            display: inline-block;
-            width: 8px;
-            height: 18px;
-            background-color: #00ff66;
-            animation: blink 0.8s infinite;
-            vertical-align: middle;
-        }
-        @keyframes blink {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0; }
-        }
-    </style>
-</head>
-<body>
+# ⚡ 0xcan-null | System Terminal
 
-<div id="terminal"></div><span class="cursor"></span>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF66&background=05050500&center=true&vCenter=true&width=500&lines=[INITIALIZING+SYSTEM+OVERRIDE...];Connecting+to+remote+host...;ACCESS+GRANTED.;Status%3A+ONLINE;Welcome+to+my+profile." alt="Typing SVG" />
+</p>
 
-<script>
-const codeSnippet = `[INITIALIZING SYSTEM OVERRIDE...]
-> Connecting to remote host: 192.168.1.104... SUCCESS
-> Bypassing firewall protocols... DONE
-> Injecting custom payload...
-> Accessing root directory: /usr/bin/local
-> Status: ACCESS GRANTED
+---
 
-function initializeHack() {
-    const status = "ONLINE";
-    let securityLevel = 0;
-    while(securityLevel < 100) {
-        console.log("Decrypting packet: " + securityLevel + "%");
-        securityLevel += 10;
-    }
-    return "SYSTEM OVERRIDDEN";
-}
+bash
+root@0xcan-null:~# whoami
+> Yazilim Gelistirici / Siber Guvenlik Meraklisi
 
-// Executing payload...
-initializeHack();
-> Process finished with exit code 0`;
+root@0xcan-null:~# cat skills.txt
+> Python | JavaScript | Linux | Bash | Guvenlik
 
-let index = 0;
-const speed = 3; // Yazma hızı (harf başına düşen karakter sayısı)
-const terminal = document.getElementById("terminal");
-
-document.addEventListener("keydown", () => {
-    if (index < codeSnippet.length) {
-        terminal.innerHTML += codeSnippet.substring(index, index + speed);
-        index += speed;
-        window.scrollTo(0, document.body.scrollHeight);
-    }
-});
-</script>
-
-</body>
-</html>
+root@0xcan-null:~# ping status
+> 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.032 ms (ONLINE)
+> 
