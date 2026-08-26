@@ -23,8 +23,6 @@ root@0xcan-null:~# ping status
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xcan-null/0xcan-null/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0xcan-null/0xcan-null/output/github-contribution-grid-snake.svg">
 </picture>
----
-
 # ⚡ SYSTEM OVERRIDE // 0xCAN-NULL
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%3E+INITIALIZING+NEURAL_LINK...;%3E+IDENTITY%3A+0xCAN-NULL+%7C+THE+ARCHITECT;%3E+HACKING+MACHINES+%26+DECODING+MINDS;%3E+ROOT+ACCESS+GRANTED.+WELCOME." alt="Typing SVG" />
