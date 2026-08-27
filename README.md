@@ -50,9 +50,16 @@ SUBJECT      = "CAN [0xCAN-NULL]"
 CLEARANCE    = "ROOT // LEVEL-5"
 MISSION      = "Bridging artificial algorithms with human psychology."
 STATUS       = "MAINFRAME OVERRIDDEN [ONLINE]"
-
+</p>
 root@0xcan-null:~# ping reality
 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.032 ms (ALL SYSTEMS NOMINAL)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
 <div align="center">
 ---
 
@@ -77,3 +84,8 @@ root@0xcan-null:~# ping reality
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0xcan-null&label=TARGETS+BREACHED&color=00ff00&style=flat-square" alt="Ziyaretçi Sayısı" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xcan-null&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+
