@@ -84,8 +84,7 @@ root@0xcan-null:~# ping reality
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0xcan-null&label=TARGETS+BREACHED&color=00ff00&style=flat-square" alt="Ziyaretçi Sayısı" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xcan-null&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
+<a href="mailto: efecanonal14@gmail.com">
+  <img src="https://img.shields.io/badge/Mail_At-Sisteme_Ulaş-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
