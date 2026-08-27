@@ -73,3 +73,7 @@ root@0xcan-null:~# ping reality
     <img src="https://img.shields.io/badge/DM_AT-Sohbete_Sız-ff007f?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0xcan-null&label=TARGETS+BREACHED&color=00ff00&style=flat-square" alt="Ziyaretçi Sayısı" />
+</p>
