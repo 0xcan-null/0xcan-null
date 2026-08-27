@@ -53,6 +53,7 @@ STATUS       = "MAINFRAME OVERRIDDEN [ONLINE]"
 </p>
 root@0xcan-null:~# ping reality
 64 bytes from 127.0.0.1: icmp_seq=1 ttl=64 time=0.032 ms (ALL SYSTEMS NOMINAL)
+ 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -75,16 +76,11 @@ root@0xcan-null:~# ping reality
 <p>
   <a href="https://instagram.com/efecan_onalll">
   <img src="https://img.shields.io/badge/DM_AT-Sohbete_Sız-ff007f?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a> <a href="mailto: efecanonal14@gmail.com">
+  <img src="https://img.shields.io/badge/Mail_At-Sisteme_Ulaş-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-    
-    <img src="https://img.shields.io/badge/DM_AT-Sohbete_Sız-ff007f?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0xcan-null&label=TARGETS+BREACHED&color=00ff00&style=flat-square" alt="Ziyaretçi Sayısı" />
 </p>
-<a href="mailto: efecanonal14@gmail.com">
-  <img src="https://img.shields.io/badge/Mail_At-Sisteme_Ulaş-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+
 
