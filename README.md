@@ -37,7 +37,7 @@ root@0xcan-null:~# ping status
 
 bash
 root@0xcan-null:~# whoami
-Yazilim Gelistirici | Siber Guvenlik & Bilisel Sistemler
+Yazilim Gelistirici | Siber Guvenlik & Bilişsel Sistemler
 
 root@0xcan-null:~# cat core_skills.json
 {
